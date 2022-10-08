@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Ninja_Demo_p/static/css/main.fdd11c19.css",
+    "main.js": "/React_Ninja_Demo_p/static/js/main.07616d06.js",
+    "index.html": "/React_Ninja_Demo_p/index.html",
+    "main.fdd11c19.css.map": "/React_Ninja_Demo_p/static/css/main.fdd11c19.css.map",
+    "main.07616d06.js.map": "/React_Ninja_Demo_p/static/js/main.07616d06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdd11c19.css",
+    "static/js/main.07616d06.js"
+  ]
+}
